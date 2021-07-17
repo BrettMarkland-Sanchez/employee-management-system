@@ -1,0 +1,22 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   ## Description   Utilizes MySQL to manage employee data using the CLI.   ## Table of Contents   - [Installation](#installation)   - [Usage](#usage)   - [Contributions](#contributions)   - [Testing](#testing)   - [License](#license)   ## Installation   Requires Node, Express, and MySQL in order to run.   ## Usage   Allows simplified employee data management based on RESTful API design.   ## Contributions   To suggest changes, please submit all requests by email.   ### Brett.MarklandSanchez@gmail.com   ### https://github.com/BrettMarkland-Sanchez   ## Testing   There are currently no predefined tests for this project.   ## License",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrettMarkland-Sanchez/employee-management-system.git"
+  },
+  "author": "Brett Markland-Sanchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrettMarkland-Sanchez/employee-management-system/issues"
+  },
+  "homepage": "https://github.com/BrettMarkland-Sanchez/employee-management-system#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}

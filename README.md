@@ -2,7 +2,7 @@
   # Employee Management System
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  Utilizes MySQL to manage employee data using the CLI.
+  Utilizes MySQL to manage employee data with the CLI.
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,9 +10,9 @@
   - [Testing](#testing)
   - [License](#license)
   ## Installation
-  Requires Node, Express, and MySQL in order to run.
+  Requires Node, Inquirer, and MySQL in order to run.
   ## Usage
-  Allows simplified employee data management based on RESTful API design.
+  Allows simplified employee data management with inquirer-based menus in the CLI.
   ## Contributions
   To suggest changes, please submit all requests by email.
   ### Brett.MarklandSanchez@gmail.com
