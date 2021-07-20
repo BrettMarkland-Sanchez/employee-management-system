@@ -1,7 +1,7 @@
-drop database if exists employees;
-create database employees;
+drop database if exists employees_DB;
+create database employees_DB;
 
-use employees;
+use employees_DB;
 
 create table department(
     id int auto_increment primary key,
