@@ -3,6 +3,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   Utilizes MySQL to manage employee data with the CLI.
+  ## Demo Video
+  [![Video Example Link](https://i.ibb.co/DC7xFfs/README-Generator.png)](https://vimeo.com/565915471 "EMS Demonstration Video")
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
