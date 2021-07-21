@@ -5,6 +5,8 @@
   Utilizes MySQL to manage employee data with the CLI.
   ## Demo Video
   [![Video Example Link](https://i.ibb.co/TMz6wFq/EMS-demo-video-thumbnail.png)](https://vimeo.com/577431628 "EMS Demonstration Video")
+  ## Database Schema
+  ![EMS Database Schema](https://i.ibb.co/YPcKdhH/schema-diagram-EMS.png)
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
