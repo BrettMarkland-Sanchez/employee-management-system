@@ -18,7 +18,7 @@ values
     ("HR Officer", 80000, 2),
     ("Accounting Specialist", 80000, 3),
     ("Support Specialist", 80000, 4),
-    ("Ad Campaign Manger", 100000, 5)
+    ("Ad Campaign Manager", 100000, 5)
 ;
 
 insert into employee (first_name, last_name, role_id, manager_id)

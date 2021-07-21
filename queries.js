@@ -32,6 +32,15 @@ on manager.id = employee.manager_id
 order by manager;
 `;
 
+// view all roles
+const d = `
+select role.id as role_id, title, salary, name as department from role
+join department
+on department.id = role.department_id
+order by role.id;
+`
+
 exports.a = a;
 exports.b = b;
 exports.c = c;
+exports.d = d;
